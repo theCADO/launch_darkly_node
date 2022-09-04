@@ -11,7 +11,7 @@ The website contains a table with information and, based on the value of feature
 ```
 npm i
 ```
-3. In `index.js`, insert your sdk key in line 2 (const ld_sdk_key = "")
+3. In `index.js`, insert your sdk key in line 2 (`const ld_sdk_key = ""`)
 4. Run the following command to start the application:
 ```
 node index.js
