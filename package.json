@@ -1,0 +1,16 @@
+{
+  "name": "launchdarkly",
+  "version": "1.0.0",
+  "description": "test for interview",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carl Dolling",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "launchdarkly-node-server-sdk": "^6.4.2"
+  }
+}
