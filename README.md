@@ -2,7 +2,7 @@
 
 This project generates a simple webserver which uses LaunchDarkly feature flags to create a simple website. The website is created by building an html string. While I absolutely don't recommend creating websites likes this, it makes for an extremely simple and lean showcase which should be compatible with any device. 
 
-The website contains a table with information and, based on the value of feature flags, displays a header with a warning for, or a button in the table (for admin user).
+The website contains a table with information and, based on the value of feature flags, displays a header with a warning, or a button in the table (for admin user).
 
 ## Installing the application locally
 
